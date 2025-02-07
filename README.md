@@ -4,8 +4,9 @@ Welcome to **Kaggle-Competition**! 🚀 This repository contains a collection of
 
 ## 🚀 Competitions Covered
 - Bank Classification
-- Competition Name 2
-- Competition Name 3
+- CIDAUT AI Fake Scene Classification 2024
+- Regression with an Insurance Dataset
+- CIBMTR - Equity in post-HCT Survival Predictions
 - (More to be added...)
 
 ## 🔧 How to Use
