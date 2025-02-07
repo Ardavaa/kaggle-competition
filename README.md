@@ -11,7 +11,7 @@ Welcome to **Kaggle-Competition**! 🚀 This repository contains a collection of
 ## 🔧 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kaggle-competition.git
+   git clone https://github.com/Ardavaa/kaggle-competition.git
    ```
 2. Install dependencies:
    ```bash
